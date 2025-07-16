@@ -10,7 +10,7 @@ function App() {
         <p className="text-red-600 font-medium text-2xl">
           Complete Web Development Assigment 12 Project
         </p>
-        <Button>Click me</Button>
+        <Button variant="destructive">Click me</Button>
       </div>
     </>
   );
