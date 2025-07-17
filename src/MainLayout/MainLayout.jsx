@@ -4,7 +4,7 @@ import Navbar from "../Shared/Navbar";
 
 const MainLayout = () => {
   return (
-    <div>
+    <div className="font-Poppins">
       <Navbar />
       <Outlet></Outlet>
       <Footer />
