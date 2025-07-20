@@ -1,9 +1,11 @@
 import { Button } from "../../components/ui/button";
 import Title from "../../Shared/Title";
+import Banner from "./Banner";
 
 const Home = () => {
   return (
-    <div>
+    <div className="w-11/12 lg:w-5/6 xl:w-4/5 mx-auto">
+      <Banner />
       <h2>Home Page</h2>
       <Title title="Title" subtitle="Subtitle"></Title>
     </div>
