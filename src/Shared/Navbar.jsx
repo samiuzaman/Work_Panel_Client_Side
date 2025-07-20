@@ -15,7 +15,7 @@ const Navbar = () => {
   };
 
   return (
-    <div className="w-11/12 lg:h-5/6 xl:h-4/5 mx-auto border rounded-sm py-2 px-2 ">
+    <div className="w-11/12 lg:w-5/6 mx-auto border rounded-sm py-2 px-2 ">
       {/* Desktop view */}
       <div className={`hidden lg:flex justify-between items-center-safe`}>
         <NavLink to="/">

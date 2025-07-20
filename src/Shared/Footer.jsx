@@ -1,11 +1,10 @@
 import { Link, NavLink } from "react-router";
 import Logo from "../../src/assets/logo.png";
-import { Mail } from "lucide-react";
 
 const Footer = () => {
   return (
     <div className="bg-[#fff5ed] py-4">
-      <div className="w-11/12 mx-auto pb-3 pt-6 flex flex-col lg:flex-row gap-6 justify-between text-center lg:text-left">
+      <div className="w-11/12 lg:w-5/6 mx-auto pb-3 pt-6 flex flex-col lg:flex-row gap-6 justify-between text-center lg:text-left">
         <NavLink to="/">
           <div className="flex justify-center gap-3">
             <img src={Logo} className="w-10 h-10" />
