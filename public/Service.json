@@ -1,0 +1,209 @@
+[
+  {
+    "image": "https://i.ibb.co.com/GQZLrQ97/mern.jpg",
+    "title": "MERN Stack Web Application Development",
+    "category": "Web Development",
+    "rating": 4.8,
+    "description": "A complete web development solution using the latest technologies to build scalable and secure web applications.",
+    "min_price": 99,
+    "total_clients": 2500,
+    "technologies": ["React", "Next.js", "Express.js", "MongoDB", "Tailwind CSS"],
+    "features": [
+      "Responsive & Scalable UI",
+      "Optimized Backend with REST APIs",
+      "Authentication & Authorization",
+      "SEO-friendly Architecture",
+      "Performance Optimization"
+    ],
+    "team": {
+      "frontend_engineer": "Tanvir Ahmed",
+      "backend_architect": "Rafiq Islam",
+      "ui_ux_specialist": "Samira Hossain",
+      "seo_expert": "Jahid Hasan"
+    }
+  },
+  {
+    "image": "https://i.ibb.co.com/2724PYFY/Cross-Mobile-App.jpg",
+    "title": "Cross-Platform Mobile App Development",
+    "category": "Mobile App Development",
+    "rating": 4.7,
+    "description": "Build high-performance mobile applications for Android and iOS with a single codebase.",
+    "min_price": 149,
+    "total_clients": 1800,
+    "technologies": ["React Native", "Flutter", "Firebase", "GraphQL"],
+    "features": [
+      "Cross-Platform Compatibility",
+      "Push Notifications",
+      "Offline Mode Support",
+      "In-App Payments",
+      "Smooth Animations & UI"
+    ],
+    "team": {
+      "mobile_app_dev": "Hasan Mahmud",
+      "firebase_specialist": "Asif Hossain",
+      "ui_motion_designer": "Tanjila Rahman",
+      "api_integration_expert": "Rakib Hasan"
+    }
+  },
+  {
+    "image": "https://i.ibb.co.com/jv4mP3JQ/eletronjs-desktop-app.jpg",
+    "title": "Modern Desktop Application Development",
+    "category": "Desktop App Development",
+    "rating": 4.6,
+    "description": "Feature-rich desktop applications with native performance and seamless integrations.",
+    "min_price": 199,
+    "total_clients": 1200,
+    "technologies": ["Electron.js", "C#", "WPF", "SQLite"],
+    "features": [
+      "Cross-Platform Compatibility",
+      "Fast & Secure Performance",
+      "Cloud Data Syncing",
+      "Advanced User Permissions",
+      "Offline Functionality"
+    ],
+    "team": {
+      "desktop_software_dev": "Jamal Uddin",
+      "database_specialist": "Rakibul Islam",
+      "performance_optimizer": "Shah Alam",
+      "ui_framework_expert": "Sumaiya Akter"
+    }
+  },
+  {
+    "image": "https://i.ibb.co.com/xtVK6ZdF/software-teast.jpg",
+    "title": "Automated Software Testing & QA",
+    "category": "Software Testing",
+    "rating": 4.9,
+    "description": "Comprehensive software testing to ensure bug-free and high-performance applications.",
+    "min_price": 89,
+    "total_clients": 2000,
+    "technologies": ["Selenium", "JUnit", "Cypress", "Postman"],
+    "features": [
+      "Automated Unit Testing",
+      "End-to-End Testing",
+      "Performance & Load Testing",
+      "Security & Compliance Testing",
+      "Bug Tracking & Reporting"
+    ],
+    "team": {
+      "qa_engineer": "Mizanur Rahman",
+      "automation_specialist": "Alamin Hossain",
+      "security_tester": "Shamima Sultana",
+      "bug_tracking_expert": "Sabbir Ahmed"
+    }
+  },
+  {
+    "image": "https://i.ibb.co.com/Vcm8kGyj/devops-cloud.webp",
+    "title": "DevOps & Cloud Infrastructure Management",
+    "category": "DevOps",
+    "rating": 4.8,
+    "description": "Streamlined DevOps solutions for faster development, testing, and deployment.",
+    "min_price": 129,
+    "total_clients": 1600,
+    "technologies": ["Docker", "Kubernetes", "AWS", "Terraform", "Jenkins"],
+    "features": [
+      "CI/CD Pipeline Setup",
+      "Containerization & Orchestration",
+      "Cloud Cost Optimization",
+      "Infrastructure as Code",
+      "Automated Server Monitoring"
+    ],
+    "team": {
+      "devops_engineer": "Abdullah Al Mamun",
+      "cloud_architect": "Shahriar Kabir",
+      "infrastructure_automation_expert": "Tasnim Jahan",
+      "security_compliance_specialist": "Nafiz Hossain"
+    }
+  },
+  {
+    "image": "https://i.ibb.co.com/b5Wg31pQ/User-Centric-ui-ux.png",
+    "title": "User-Centric UI/UX Design",
+    "category": "UI-UX Design",
+    "rating": 4.7,
+    "description": "Create visually stunning and user-friendly interfaces to enhance customer experience.",
+    "min_price": 79,
+    "total_clients": 2200,
+    "technologies": ["Figma", "Adobe XD", "Sketch", "InVision"],
+    "features": [
+      "Wireframing & Prototyping",
+      "User Research & Analysis",
+      "Interactive Mockups",
+      "Accessibility Testing",
+      "Design System Implementation"
+    ],
+    "team": {
+      "ux_researcher": "Sabrina Ahmed",
+      "ui_visual_designer": "Nazmul Huda",
+      "interaction_designer": "Fahim Khan",
+      "accessibility_specialist": "Mariam Akter"
+    }
+  },
+  {
+    "image": "https://i.ibb.co.com/21pFsZzc/images.jpg",
+    "title": "Advanced Cyber Security Solutions",
+    "category": "Cyber Security",
+    "rating": 4.9,
+    "description": "Protect your business from cyber threats with cutting-edge security measures.",
+    "min_price": 199,
+    "total_clients": 1500,
+    "technologies": ["Ethical Hacking", "Firewalls", "Encryption", "Penetration Testing"],
+    "features": [
+      "Vulnerability Assessment",
+      "Network Security Audits",
+      "Real-Time Threat Detection",
+      "Data Encryption & Privacy",
+      "Secure API Development"
+    ],
+    "team": {
+      "ethical_hacker": "Arif Chowdhury",
+      "network_security_specialist": "Sakib Rahman",
+      "malware_analysis_expert": "Mahbuba Akter",
+      "data_protection_consultant": "Aminul Haque"
+    }
+  },
+  {
+  "image": "https://i.ibb.co.com/0RcjbkN3/django.jpg",
+  "title": "Backend Development with Django",
+  "category": "Web Development",
+  "rating": 4.9,
+  "description": "A powerful backend system built with Django, featuring RESTful APIs, authentication, and database management for scalable web applications.",
+  "min_price": 159,
+  "total_clients": 3200,
+  "technologies": ["Django", "Python", "DRF (Django Rest Framework)", "PostgreSQL", "Redis"],
+  "features": [
+    "Secure User Authentication",
+    "RESTful API Development",
+    "Database Optimization",
+    "Scalable Architecture",
+    "Role-Based Access Control"
+  ],
+  "team": {
+    "backend_engineer": "Fahim Rahman",
+    "api_developer": "Tanjim Ahmed",
+    "database_admin": "Sadia Noor",
+    "performance_optimizer": "Raihan Karim"
+  }
+},
+{
+  "image": "https://i.ibb.co.com/Zpk5dCST/ios.jpg",
+  "title": "iOS App Development",
+  "category": "iOS Development",
+  "rating": 4.8,
+  "description": "Build high-quality iOS apps with a seamless user experience and native performance.",
+  "min_price": 199,
+  "total_clients": 1200,
+  "technologies": ["Swift", "Xcode", "UIKit", "Core Data", "Firebase"],
+  "features": [
+    "Custom UI Design",
+    "Core Animation & Graphics",
+    "API Integration",
+    "Push Notifications",
+    "App Store Submission & Maintenance"
+  ],
+  "team": {
+    "ios_developer": "Aminul Islam",
+    "uiux_designer": "Nadia Sultana",
+    "app_architect": "Rashedul Hasan",
+    "qa_engineer": "Tanvir Ahmed"
+  }
+}
+]
