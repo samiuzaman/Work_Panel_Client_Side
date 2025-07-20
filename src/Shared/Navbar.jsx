@@ -4,7 +4,7 @@ import { Button } from "../components/ui/button";
 import Logo from "../../src/assets/logo.png";
 import { MdMenu, MdOutlineClose } from "react-icons/md";
 const Navbar = () => {
-  const [isOpen, setIsOpen] = useState(true);
+  const [isOpen, setIsOpen] = useState(false);
   console.log(isOpen);
 
   const handleCloseBtn = () => {
