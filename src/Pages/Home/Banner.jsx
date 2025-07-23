@@ -11,7 +11,7 @@ const Banner = () => {
           Stay on top of your team's performance and automate your HR processes,
           including updates, contracts, and monthly salary payments
         </p>
-        <Button variant="outline" className="cursor-pointer hover:bg-green-500 hover:text-white hover:border-none">Explore All Services</Button>
+        <Button variant="outline" className="cursor-pointer hover:bg-green-500 hover:text-white hover:border-none">Explore Services</Button>
       </div>
     );
 };

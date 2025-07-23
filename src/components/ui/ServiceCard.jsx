@@ -25,7 +25,7 @@ const ServiceCard = ({ serviceData }) => {
   } = serviceData || {};
   console.log("Service Data: ", serviceData);
   return (
-    <Card className="w-full max-w-sm pt-0 h-full transition-transform duration-200 hover:scale-105 flex flex-col justify-around">
+    <Card className="w-full max-w-sm pt-0 h-full transition-transform duration-200 hover:scale-105 flex flex-col justify-between">
       <div>
         <CardHeader className="p-0">
           <img className="w-full h-56 rounded-t-xl border-b" src={image} />

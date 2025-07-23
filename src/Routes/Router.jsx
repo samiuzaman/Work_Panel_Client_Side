@@ -4,6 +4,8 @@ import MainLayout from "../MainLayout/MainLayout";
 import Dashboard from "../Pages/Dashboard/Dashboard";
 import Contact from "../Pages/Contact/Contact";
 import Home from "../Pages/Home/Home";
+import Details from "../Pages/Details/Details";
+import Services from "../Pages/Services/Services";
 
 const Router = () => {
   return (
@@ -12,6 +14,8 @@ const Router = () => {
         <Route path="/" element={<MainLayout />}>
           <Route index element={<Home />} />
           <Route path="/contact" element={<Contact />} />
+          <Route path="/services" element={<Services />} />
+          <Route path="/details/:id" element={<Details />} />
         </Route>
         {/* Dashboard Route */}
         <Route path="/dashboard" element={<Dashboard />}>
