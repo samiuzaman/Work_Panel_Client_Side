@@ -5,9 +5,15 @@
     "category": "Web Development",
     "rating": 4.8,
     "description": "A complete web development solution using the latest technologies to build scalable and secure web applications.",
-    "min_price": 99,
+    "price": [{ "min_price": 110 }, { "max_price": 199 }],
     "total_clients": 2500,
-    "technologies": ["React", "Next.js", "Express.js", "MongoDB", "Tailwind CSS"],
+    "technologies": [
+      "React",
+      "Next.js",
+      "Express.js",
+      "MongoDB",
+      "Tailwind CSS"
+    ],
     "features": [
       "Responsive & Scalable UI",
       "Optimized Backend with REST APIs",
@@ -28,7 +34,7 @@
     "category": "Mobile App Development",
     "rating": 4.7,
     "description": "Build high-performance mobile applications for Android and iOS with a single codebase.",
-    "min_price": 149,
+    "price": [{ "min_price": 150 }, { "max_price": 250 }],
     "total_clients": 1800,
     "technologies": ["React Native", "Flutter", "Firebase", "GraphQL"],
     "features": [
@@ -51,7 +57,7 @@
     "category": "Desktop App Development",
     "rating": 4.6,
     "description": "Feature-rich desktop applications with native performance and seamless integrations.",
-    "min_price": 199,
+    "price": [{ "min_price": 120 }, { "max_price": 200 }],
     "total_clients": 1200,
     "technologies": ["Electron.js", "C#", "WPF", "SQLite"],
     "features": [
@@ -74,7 +80,7 @@
     "category": "Software Testing",
     "rating": 4.9,
     "description": "Comprehensive software testing to ensure bug-free and high-performance applications.",
-    "min_price": 89,
+    "price": [{ "min_price": 300 }, { "max_price": 380 }],
     "total_clients": 2000,
     "technologies": ["Selenium", "JUnit", "Cypress", "Postman"],
     "features": [
@@ -97,7 +103,7 @@
     "category": "DevOps",
     "rating": 4.8,
     "description": "Streamlined DevOps solutions for faster development, testing, and deployment.",
-    "min_price": 129,
+    "price": [{ "min_price": 500 }, { "max_price": 800 }],
     "total_clients": 1600,
     "technologies": ["Docker", "Kubernetes", "AWS", "Terraform", "Jenkins"],
     "features": [
@@ -120,7 +126,7 @@
     "category": "UI-UX Design",
     "rating": 4.7,
     "description": "Create visually stunning and user-friendly interfaces to enhance customer experience.",
-    "min_price": 79,
+    "price": [{ "min_price": 280 }, { "max_price": 360 }],
     "total_clients": 2200,
     "technologies": ["Figma", "Adobe XD", "Sketch", "InVision"],
     "features": [
@@ -143,9 +149,14 @@
     "category": "Cyber Security",
     "rating": 4.9,
     "description": "Protect your business from cyber threats with cutting-edge security measures.",
-    "min_price": 199,
+    "price": [{ "min_price": 800 }, { "max_price": 950 }],
     "total_clients": 1500,
-    "technologies": ["Ethical Hacking", "Firewalls", "Encryption", "Penetration Testing"],
+    "technologies": [
+      "Ethical Hacking",
+      "Firewalls",
+      "Encryption",
+      "Penetration Testing"
+    ],
     "features": [
       "Vulnerability Assessment",
       "Network Security Audits",
@@ -161,49 +172,55 @@
     }
   },
   {
-  "image": "https://i.ibb.co.com/0RcjbkN3/django.jpg",
-  "title": "Backend Development with Django",
-  "category": "Web Development",
-  "rating": 4.9,
-  "description": "A powerful backend system built with Django, featuring RESTful APIs, authentication, and database management for scalable web applications.",
-  "min_price": 159,
-  "total_clients": 3200,
-  "technologies": ["Django", "Python", "DRF (Django Rest Framework)", "PostgreSQL", "Redis"],
-  "features": [
-    "Secure User Authentication",
-    "RESTful API Development",
-    "Database Optimization",
-    "Scalable Architecture",
-    "Role-Based Access Control"
-  ],
-  "team": {
-    "backend_engineer": "Fahim Rahman",
-    "api_developer": "Tanjim Ahmed",
-    "database_admin": "Sadia Noor",
-    "performance_optimizer": "Raihan Karim"
+    "image": "https://i.ibb.co.com/0RcjbkN3/django.jpg",
+    "title": "Backend Development with Django",
+    "category": "Web Development",
+    "rating": 4.9,
+    "description": "A powerful backend system built with Django, featuring RESTful APIs, authentication, and database management for scalable web applications.",
+    "price": [{ "min_price": 290 }, { "max_price": 390 }],
+    "total_clients": 3200,
+    "technologies": [
+      "Django",
+      "Python",
+      "DRF (Django Rest Framework)",
+      "PostgreSQL",
+      "Redis"
+    ],
+    "features": [
+      "Secure User Authentication",
+      "RESTful API Development",
+      "Database Optimization",
+      "Scalable Architecture",
+      "Role-Based Access Control"
+    ],
+    "team": {
+      "backend_engineer": "Fahim Rahman",
+      "api_developer": "Tanjim Ahmed",
+      "database_admin": "Sadia Noor",
+      "performance_optimizer": "Raihan Karim"
+    }
+  },
+  {
+    "image": "https://i.ibb.co.com/Zpk5dCST/ios.jpg",
+    "title": "iOS App Development",
+    "category": "iOS Development",
+    "rating": 4.8,
+    "description": "Build high-quality iOS apps with a seamless user experience and native performance.",
+    "price": [{ "min_price": 499 }, { "max_price": 599 }],
+    "total_clients": 1200,
+    "technologies": ["Swift", "Xcode", "UIKit", "Core Data", "Firebase"],
+    "features": [
+      "Custom UI Design",
+      "Core Animation & Graphics",
+      "API Integration",
+      "Push Notifications",
+      "App Store Submission & Maintenance"
+    ],
+    "team": {
+      "ios_developer": "Aminul Islam",
+      "uiux_designer": "Nadia Sultana",
+      "app_architect": "Rashedul Hasan",
+      "qa_engineer": "Tanvir Ahmed"
+    }
   }
-},
-{
-  "image": "https://i.ibb.co.com/Zpk5dCST/ios.jpg",
-  "title": "iOS App Development",
-  "category": "iOS Development",
-  "rating": 4.8,
-  "description": "Build high-quality iOS apps with a seamless user experience and native performance.",
-  "min_price": 199,
-  "total_clients": 1200,
-  "technologies": ["Swift", "Xcode", "UIKit", "Core Data", "Firebase"],
-  "features": [
-    "Custom UI Design",
-    "Core Animation & Graphics",
-    "API Integration",
-    "Push Notifications",
-    "App Store Submission & Maintenance"
-  ],
-  "team": {
-    "ios_developer": "Aminul Islam",
-    "uiux_designer": "Nadia Sultana",
-    "app_architect": "Rashedul Hasan",
-    "qa_engineer": "Tanvir Ahmed"
-  }
-}
 ]
